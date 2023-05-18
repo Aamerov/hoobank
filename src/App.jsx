@@ -6,7 +6,7 @@ import {
   Clients,
   CTA,
   Footer,
-  Navbar,
+  NavBar,
   Stats,
   Testimonials,
   Hero,
